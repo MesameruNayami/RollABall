@@ -9,7 +9,7 @@ public class PlayerController : MonoBehaviour {
     public Text countText;
     public Text winText;
 
-    private Rigidbody rb;
+    private Rigidbody rigid;
     private int count;
 
     void Start()
